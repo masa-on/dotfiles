@@ -1,0 +1,10 @@
+# 全てのファイルを無視
+/*
+
+# 必要なファイルだけ追加
+!README.md
+!.vimrc
+!.vim/
+!.emacs.d/
+!.zshrc
+!.gitignore
