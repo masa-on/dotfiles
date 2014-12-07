@@ -194,7 +194,6 @@ set visualbell t_vb=
 
 " キーマップ関連の設定
 " <Leader> の設定
-" <Space> が望ましいが、vimfiler で困る、解決策ができたら変更予定
 nnoremap \ ,
 let mapleader = ','
 
