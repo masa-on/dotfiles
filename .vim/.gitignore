@@ -3,3 +3,5 @@
 !myconf.d/
 !myconf.d/*
 !.gitignore
+
+tags
